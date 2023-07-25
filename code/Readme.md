@@ -27,5 +27,15 @@ avail of the services.
 <hr> 
 
 
+<br><br>
+
+## SMTP implementation  :
+
+![image](https://github.com/jeelan-ds786/CHOCOLATE-BUSINESS-STIMULATION/assets/97782415/681df5bd-f73c-4dff-8d04-4636dc73e45a)
+
+
+Confirmation order and bill will be mailed to the inbox of customer.
+
+
 
 
