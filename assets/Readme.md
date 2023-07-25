@@ -1,1 +1,1 @@
- * Logo and background image for the interface has been attached here.
+Logo and background image for the interface has been attached here.
